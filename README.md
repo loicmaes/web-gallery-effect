@@ -1,5 +1,4 @@
 # Web Gallery Effect
-The following scroll effect is a reproduction of the one present on [ContraBureau](https://www.contrabureau.com/).
 
 ## Table of contents
 - [Stack](#stack)
