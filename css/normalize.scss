@@ -1,0 +1,29 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  font: inherit;
+  outline: none;
+  list-style: none;
+  background: none;
+  color: currentColor;
+  text-decoration: none;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+a {
+  cursor: pointer;
+}
